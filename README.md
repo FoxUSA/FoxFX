@@ -4,7 +4,7 @@
 
 # Fox ⇄
 
-**Currency and crypto converter with a calculator in the amount field.**
+**Currency, crypto and unit converter with a calculator in the amount field.**
 
 165 currencies and 24 cryptocurrencies on one screen. Type an amount in any of them — every other one recalculates as you type.
 
@@ -36,6 +36,7 @@ Open the site, add your currencies once. After that: tap an amount, type — don
 - **The ruble at the Bank of Russia rate** — every pair with RUB uses the official CBR rate, crypto included (coin → USD → RUB at the CBR rate). Other currencies come from the ECB and central banks, crypto from live Binance prices refreshed every minute.
 - **Search the way you think** — by country, currency name or code, in Russian and English: “лира”, “Turkey”, “TRY”, “биток”, “эфир”, “тон”.
 - **Gestures** — swipe a card right to make it the main currency, left to remove it, long-press and drag to reorder, pinch for tiles.
+- **Units too** — 97 quantities and 700+ units: length, weight, temperature, pressure, data, cooking, old Russian and Japanese measures. Search by symbol or name; tap any card and every unit follows.
 - **Charts** — any pair from one week to ten years; drag a finger along the line to see the rate on a given day.
 - **An app, not a page** — installs on iPhone and Android, works offline with the last saved rates, dark and light themes, Russian and English.
 
@@ -49,4 +50,4 @@ Free, no sign-up, no trackers or analytics. Rates: [Frankfurter](https://frankfu
 
 ---
 
-<sub>Keywords: currency converter, crypto converter, bitcoin to ruble, USDT to RUB, CBR exchange rate, currency calculator, PWA currency app, offline exchange rates.</sub>
+<sub>Keywords: currency converter, crypto converter, unit converter, bitcoin to ruble, USDT to RUB, CBR exchange rate, currency calculator, PWA currency app, offline exchange rates.</sub>
