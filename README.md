@@ -4,7 +4,7 @@
 
 # Fox ⇄
 
-**Currency, crypto and unit converter with a calculator in the amount field.**
+**Currency, crypto and unit converter with bank rates and a calculator in the amount field.**
 
 165 currencies and 24 cryptocurrencies on one screen. Type an amount in any of them — every other one recalculates as you type.
 
@@ -34,6 +34,9 @@ Open the site, add your currencies once. After that: tap an amount, type — don
 - **Currencies and crypto together** — 165 world currencies, gold, silver, platinum and palladium, plus 24 cryptocurrencies: BTC, ETH, USDT, USDC, TON, BNB, SOL, XRP, DOGE, TRX, LTC and more. Every pair works both ways: BTC → RUB, USDT → EUR, TON → TRY.
 - **Calculator right in the amount field** — `+ − × ÷` and percentages (`100 + 10%` = 110). The result appears in every currency while you type. A compact keypad takes half the screen, so the list stays visible.
 - **The ruble at the Bank of Russia rate** — every pair with RUB uses the official CBR rate, crypto included (coin → USD → RUB at the CBR rate). Other currencies come from the ECB and central banks, crypto from live Binance prices refreshed every minute.
+- **Bank rates** — buy and sell prices of 71 banks and exchange offices in 20+ countries, online and cash; the best one is marked.
+- **Where to change cash** — before a trip, see what is cheaper: buy the money at home, or carry dollars, euros or rubles and change there.
+- **Exchange route** — RUB → KGS → USD and so on, each step at its own rate (central bank, bank, world or your own), with the total at the end.
 - **Search the way you think** — by country, currency name or code, in Russian and English: “лира”, “Turkey”, “TRY”, “биток”, “эфир”, “тон”.
 - **Gestures** — swipe a card right to make it the main currency, left to remove it, long-press and drag to reorder, pinch for tiles.
 - **Units too** — 97 quantities and 700+ units: length, weight, temperature, pressure, data, cooking, old Russian and Japanese measures. Search by symbol or name; tap any card and every unit follows.
@@ -50,4 +53,4 @@ Free, no sign-up, no trackers or analytics. Rates: [Frankfurter](https://frankfu
 
 ---
 
-<sub>Keywords: currency converter, crypto converter, unit converter, bitcoin to ruble, USDT to RUB, CBR exchange rate, currency calculator, PWA currency app, offline exchange rates.</sub>
+<sub>Keywords: currency converter, crypto converter, unit converter, bank exchange rates, cash exchange rates, bitcoin to ruble, USDT to RUB, CBR exchange rate, currency calculator, PWA currency app, offline exchange rates.</sub>
