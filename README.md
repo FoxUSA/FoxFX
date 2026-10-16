@@ -8,7 +8,7 @@
 
 165 currencies and 24 cryptocurrencies on one screen. Type an amount in any of them — every other one recalculates as you type.
 
-[![Open the app](https://img.shields.io/badge/Open-fx.byfox.dev-2ea44f?style=for-the-badge)](https://fx.byfox.dev/)
+[![Open the app](https://img.shields.io/badge/Open-fxbyfox.com-2ea44f?style=for-the-badge)](https://fxbyfox.com/)
 [![Website](https://img.shields.io/badge/Website-byfox.dev-4ecdc4?style=for-the-badge)](https://byfox.dev/)
 
 ![iPhone / Android / Desktop](https://img.shields.io/badge/iPhone%20%2F%20Android%20%2F%20Desktop-PWA-444)
@@ -45,7 +45,7 @@ Open the site, add your currencies once. After that: tap an amount, type — don
 
 ## Get started
 
-1. Open **[fx.byfox.dev](https://fx.byfox.dev/)**
+1. Open **[fxbyfox.com](https://fxbyfox.com/)**
 2. iPhone: Safari → **Share** → **Add to Home Screen**. Android: Chrome → **Install app**.
 3. Tap **+** and add your currencies
 

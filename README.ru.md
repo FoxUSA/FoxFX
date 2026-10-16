@@ -8,7 +8,7 @@
 
 165 валют и 24 криптовалюты на одном экране. Вводите сумму в любой — остальные пересчитываются сразу, пока набираете.
 
-[![Открыть приложение](https://img.shields.io/badge/Открыть-fx.byfox.dev-2ea44f?style=for-the-badge)](https://fx.byfox.dev/)
+[![Открыть приложение](https://img.shields.io/badge/Открыть-fxbyfox.com-2ea44f?style=for-the-badge)](https://fxbyfox.com/)
 [![Сайт](https://img.shields.io/badge/Сайт-byfox.dev-4ecdc4?style=for-the-badge)](https://byfox.dev/)
 
 ![iPhone / Android / ПК](https://img.shields.io/badge/iPhone%20%2F%20Android%20%2F%20ПК-PWA-444)
@@ -45,7 +45,7 @@
 
 ## Начать
 
-1. Откройте **[fx.byfox.dev](https://fx.byfox.dev/)**
+1. Откройте **[fxbyfox.com](https://fxbyfox.com/)**
 2. iPhone: Safari → **Поделиться** → **На экран «Домой»**. Android: Chrome → **Установить приложение**.
 3. Нажмите **+** и добавьте свои валюты
 
